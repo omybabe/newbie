@@ -34,14 +34,14 @@ export function Contact() {
   
   // 기본 데이터
   const defaultInfo = {
-    name: "당신의 이름",
-    title: "직책/직무",
-    company: "",
-    experience: "3년 경력",
-    phone: "010-0000-0000",
-    email: "your-email@example.com",
+    name: "장연주",
+    title: "팀장",
+    company: "한국토지주택공사",
+    experience: "",
+    phone: "010-7754-0000",
+    email: "chyeonjoo@lh.or.kr",
     website: "",
-    location: "당신의 위치",
+    location: "경기도 성남시 분당구",
     workTime: "평일 09:00 - 18:00",
     responseTime: "24시간 이내 응답",
     sectionTitle: "연락처",

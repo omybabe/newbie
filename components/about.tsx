@@ -102,7 +102,7 @@ export function About() {
     experienceCards: [{"icon":"briefcase","title":"한국토지주택공사","period":"20년이 넘었네요","description":""},{"icon":"graduation","title":"이화여자대학교","period":"1997 - 2001","description":"경영학"},{"icon":"award","title":"한국공인회계사","period":"2003","description":"설명을 입력하세요"},{"icon":"coffee","title":"밝은 사람이 좋아요","period":"2024","description":"설명을 입력하세요"}],
     skills: [{"icon":"code","title":"공기업 회계","description":"React, TypeScript, Next.js를 활용한 모던 웹 개발"},{"icon":"database","title":"백엔드 개발","description":"Node.js, Python, 데이터베이스 설계 및 구현"},{"icon":"palette","title":"UI/UX 디자인","description":"사용자 중심의 인터페이스 디자인"}],
     storyTitle: "나의 이야기",
-    story: ["저는 기술을 통해 사람들의 삶을 더 편리하고 의미 있게 만드는 일에 열정을 가지고 있습니다.","다양한 프로젝트를 통해 문제 해결 능력과 창의적인 사고를 키워왔으며, 팀원들과의 협업을 통해 함께 성장하는 가치를 배웠습니다.","앞으로도 지속적인 학습과 도전을 통해 더 나은 개발자가 되기 위해 노력하겠습니다."],
+    story: ["저는 밝고 긍정적인 사람이 되고자 노력합니다. ","함께 웃고 성장할 수 있도록 하겠습니다.","앞으로도 지속적인 학습과 도전을 하겠습니다.\n"],
     storyImage: "",
     hobbies: ["📚 독서","☕ 카페 투어","🎨 전시회 관람","✈️ 여행"]
   }

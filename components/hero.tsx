@@ -40,7 +40,7 @@ export function Hero() {
     name: "장연주",
     title: "반갑습니다",
     description: "시장을 보는 안목을 넓히고 싶어요",
-    profileImage: "/uploads/hero-profile-1763815417411.jpg",
+    profileImage: "/uploads/hero-profile-1763816210803.jpg",
     backgroundImage: "",
     backgroundVideo: "",
     backgroundOpacity: 0.1,
