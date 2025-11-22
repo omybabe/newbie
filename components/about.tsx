@@ -98,7 +98,7 @@ export function About() {
   const defaultInfo = {
     title: "소개",
     subtitle: "나는 그동안 무엇을 했을까요?",
-    background: {"image":"","video":"","color":"#dcea1a","opacity":0.1},
+    background: {"image":"","video":"","color":"#e27373","opacity":0.2},
     experienceCards: [{"icon":"briefcase","title":"한국토지주택공사","period":"20년이 넘었네요","description":""},{"icon":"graduation","title":"이화여자대학교","period":"1997 - 2001","description":"경영학"},{"icon":"award","title":"한국공인회계사","period":"2003","description":"설명을 입력하세요"},{"icon":"coffee","title":"밝은 사람이 좋아요","period":"2024","description":"설명을 입력하세요"}],
     skills: [{"icon":"code","title":"공기업 회계","description":"React, TypeScript, Next.js를 활용한 모던 웹 개발"},{"icon":"database","title":"백엔드 개발","description":"Node.js, Python, 데이터베이스 설계 및 구현"},{"icon":"palette","title":"UI/UX 디자인","description":"사용자 중심의 인터페이스 디자인"}],
     storyTitle: "나의 이야기",
